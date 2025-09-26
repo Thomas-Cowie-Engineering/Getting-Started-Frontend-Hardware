@@ -50,13 +50,13 @@ cd ./testdir
 ls
 cd ..
 ls
-sudo apt update
 ```
 Run these and try and figure out what is happening!
 
-**2.1** Install Git
+**2.1** Update apt and Install Git
 
 ```bash
+sudo apt update
 sudo apt install git
 git --version
 ```

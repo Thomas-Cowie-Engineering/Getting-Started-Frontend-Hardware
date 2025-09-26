@@ -129,7 +129,7 @@ iverilog -v
 3.1 Navigate to the Extensions Panel
 3.2 Install [VerilogHDL Extension](https://marketplace.visualstudio.com/items?itemName=mshr-h.VerilogHDL)
 
-3.3 [Select iverilog in this field](vscode://settings/verilog.linting.linter)
+3.3 Select iverilog in [this field](vscode://settings/verilog.linting.linter)
    
 3.4 in the terminal run
    ```bash

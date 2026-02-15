@@ -129,14 +129,14 @@ iverilog -v
 3.1 Navigate to the Extensions Panel
 3.2 Install [VerilogHDL Extension](https://marketplace.visualstudio.com/items?itemName=mshr-h.VerilogHDL)
 
-3.3 Select iverilog in [this field](vscode://settings/verilog.linting.linter)
+3.3 Select iverilog in this field: vscode://settings/verilog.linting.linter
    
 3.4 in the terminal run
    ```bash
    whereis iverilog
    ```
 3.5 copy the first directory that comes up (usually /usr/local/bin) into
-[This field](vscode://settings/verilog.linting.path) - Make sure to not include the filename at the end of the path!
+this field: vscode://settings/verilog.linting.path - Make sure to not include the filename at the end of the path!
 
 ## You are now ready to to begin the Tutorial!
 

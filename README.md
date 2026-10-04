@@ -127,7 +127,7 @@ iverilog -v
 ## 🔧 Setting Up VSCode (All)
 
 3.1 Navigate to the Extensions Panel
-3.2 Install [VerilogHDL Extension](https://marketplace.visualstudio.com/items?itemName=mshr-h.VerilogHDL)
+3.2 Install [slang-server Extension](https://marketplace.visualstudio.com/items?itemName=Hudson-River-Trading.vscode-slang)
 
 3.3 Select iverilog in this field: vscode://settings/verilog.linting.linter
    
